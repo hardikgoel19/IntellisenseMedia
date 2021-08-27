@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "656359434426",
+    "firebase_url": "https://intellisensemedia-67a03-default-rtdb.firebaseio.com",
+    "project_id": "intellisensemedia-67a03",
+    "storage_bucket": "intellisensemedia-67a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656359434426:android:46003d767ddb54bbf6fa83",
+        "android_client_info": {
+          "package_name": "com.student.imadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656359434426-qvep665sl3kcjplvhs3d5bjuqf8kt2ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-a-C_fQiOjMUM0RPfG74DQ1CdZS0SsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656359434426-qvep665sl3kcjplvhs3d5bjuqf8kt2ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656359434426:android:64d560c0b4a03563f6fa83",
+        "android_client_info": {
+          "package_name": "com.video.player.intellisensemedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656359434426-qvep665sl3kcjplvhs3d5bjuqf8kt2ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-a-C_fQiOjMUM0RPfG74DQ1CdZS0SsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656359434426-qvep665sl3kcjplvhs3d5bjuqf8kt2ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

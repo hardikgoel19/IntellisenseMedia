@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntellisenseMedia</string>
+    <string name="home">Home</string>
+    <string name="device">Device</string>
+    <string name="history">History</string>
+    <string name="library">Library</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="add_to_library">Add To Library</string>
+    <string name="details">Details</string>
+    <string name="d_e_t_a_i_l_s">D E T A I L S</string>
+    <string name="database">Database</string>
+</resources>

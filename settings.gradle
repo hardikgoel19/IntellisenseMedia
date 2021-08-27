@@ -1,0 +1,3 @@
+rootProject.name='IntellisenseMedia'
+include ':app'
+include ':intellisensevideoview'
